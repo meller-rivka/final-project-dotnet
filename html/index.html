@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weight Watchers Page</title>
+</head>
+<body>
+
+    <h1>Weight Watchers Page</h1>
+    <div id="cardDetails"></div>
+    <form id="registerForm">
+        <h2>Register</h2>
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" required>
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+        <label for="password">Password:</label>
+        <input type="password" id="password" required>
+        <label for="height">Height:</label>
+        <input type="number" id="height" required>
+        <button type="button" onclick="register()">Register</button>
+    </form>
+    
+
+    <form id="loginForm">
+        <h2>Login</h2>
+        <label for="loginEmail">Email:</label>
+        <input type="email" id="loginEmail" required>
+        <label for="loginPassword">Password:</label>
+        <input type="password" id="loginPassword" required>
+        <button type="button" onclick="login()">Login</button>
+    </form>
+
+    <form id="getCardForm">
+        <h2>Get Card by ID</h2>
+        <label for="cardId">Card ID:</label>
+        <input type="number" id="cardId" required>
+        <button type="button" onclick="getCardById()">Get Card</button>
+    </form>
+
+    <script>
+        async function register() {
+        const resultDiv = document.getElementById("cardDetails");
+        const firstName = document.getElementById('firstName').value;
+        const lastName = document.getElementById('lastName').value;
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('password').value;
+        const height = document.getElementById('height').value;
+
+        const subscriberData = {
+            FirstName: firstName,
+            LastName: lastName,
+            Email: email,
+            Password: password,
+            Height: parseFloat(height) // Assuming height is a double, parse it accordingly
+        };
+
+        const response = await fetch('http://localhost:5032/api/WeightWatchers', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(subscriberData)
+        });
+
+        const result = await response.json();
+        resultDiv.textContent = result.FirstName+" "+result.LastName; 
+        if(result)(
+            document.getElementById("cardDetails").value="ghjkl"
+        )
+        console.log(result);
+    }
+
+        async function login() {
+            const loginEmail = document.getElementById('loginEmail').value;
+            const loginPassword = document.getElementById('loginPassword').value;
+
+            const response = await fetch('http://localhost:5032/api/WeightWatchers/login', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ email: loginEmail, password: loginPassword })
+            });
+
+            const result = await response.json();
+            console.log(result);
+        }
+
+        async function getCardById() {
+            const cardId = document.getElementById('cardId').value;
+
+            const response = await fetch(`http://localhost:5032/api/WeightWatchers/${cardId}`, {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+            
+            const result = await response.json();
+            console.log(result);
+            
+        }
+    </script>
+
+</body>
+</html>
