@@ -68,3 +68,18 @@ Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Data\o
 Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.pdb
 Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.genruntimeconfig.cache
 Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\ref\Subscriber.Data.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.deps.json
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.runtimeconfig.json
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.AssemblyReference.cache
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfoInputs.cache
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfo.cs
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.CoreCompileInputs.cache
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.sourcelink.json
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\refint\Subscriber.Data.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.genruntimeconfig.cache
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Data\obj\Debug\net6.0\ref\Subscriber.Data.dll

@@ -93,3 +93,23 @@ Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Servic
 Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\refint\Subscriber.Services.dll
 Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.pdb
 Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\ref\Subscriber.Services.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Services.deps.json
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Services.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Services.pdb
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.DAL.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Data.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.DAL.pdb
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.csproj.AssemblyReference.cache
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.AssemblyInfoInputs.cache
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.AssemblyInfo.cs
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.csproj.CoreCompileInputs.cache
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.sourcelink.json
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.csproj.CopyComplete
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\refint\Subscriber.Services.dll
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.pdb
+C:\Users\נ\Desktop\rivki\.net project\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\ref\Subscriber.Services.dll
